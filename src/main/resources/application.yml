@@ -1,0 +1,9 @@
+server:
+  port: 8088
+
+spring:
+  application:
+    name: Chat_1to1
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/chat_1to1
